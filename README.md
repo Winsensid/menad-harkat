@@ -1,15 +1,15 @@
 # 🎵 Menad Harkat - Official Website
 
-A modern, responsive artist portfolio website showcasing the work of Menad Harkat, a talented North African singer
+A modern, responsive artist portfolio website showcasing the work of Menad Harkat, a talented North African singer.
 
-[![Live Demo]()
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://winsensid.github.io/menad-harkat/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Winsensid/menad-harkat)
 
-## � Live Demo
+## 🌐 Live Demo
 
 Visit the live website: **[https://winsensid.github.io/menad-harkat/](https://winsensid.github.io/menad-harkat/)**
 
-## �🌟 Features
+## 🌟 Features
 
 - **Fully Responsive Design** - Optimized for desktop, tablet, and mobile devices
 - **Artistic Animations** - Custom CSS keyframe animations including guitar string shimmer effects
