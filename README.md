@@ -2,7 +2,7 @@
 
 A modern, responsive artist portfolio website showcasing the work of Menad Harkat, a talented North African singer
 
-[![Live Demo](https://winsensid.github.io/menad-harkat/)
+[![Live Demo]()
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Winsensid/menad-harkat)
 
 ## 🌟 Features
